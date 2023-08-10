@@ -1,0 +1,1 @@
+docker build --build-arg NPM_TOKEN=xxx NPM_EMAIL=xxx # or wherever you run the build command

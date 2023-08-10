@@ -1,0 +1,10 @@
+registry=https://microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/registry/ 
+always-auth=true
+; begin auth token
+//microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/registry/:username=microsoft
+//microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/registry/:_password={{NPM_TOKEN}}
+//microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/registry/:email={{NPM_EMAIL}}
+//microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/:username=microsoft
+//microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/:_password={{NPM_TOKEN}}
+//microsoft.pkgs.visualstudio.com/mwaas/_packaging/mmd.azureportal/npm/:email={{NPM_EMAIL}}
+; end auth token
